@@ -39,3 +39,6 @@ After a successful build, execute the compiled binary to start the simulation.
 ---
 
 This version improves clarity, organization, and readability, while also including more detailed instructions for building the project.
+
+# Author
+Project developed by Alex Pettipas as a final project for computer animation course taught at Dalhousie University.
