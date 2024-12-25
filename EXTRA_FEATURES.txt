@@ -1,0 +1,7 @@
+Alex Pettipas
+B00813771
+
+1) Replaced up and down aircraft movement with mouse movement + animation integration
+2) Made camera position represent aircraft speed as if it is being affected by the wind.
+    (faster = further away, slower = closer)
+3)
