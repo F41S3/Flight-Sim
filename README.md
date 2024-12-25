@@ -1,5 +1,8 @@
 # Flight-Sim
-Final project involving mountains generated with Perlin noise. Written in C using an early version of FreeGLUT.
+Final project involving mountains generated with Perlin noise. 
+
+# Requirements
+Written in C using an early version of FreeGLUT and OpenGL.
 
 # How to Build
 This project was built on linux using the cmake compiler in CLion.
